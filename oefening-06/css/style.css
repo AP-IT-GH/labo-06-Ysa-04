@@ -1,0 +1,31 @@
+#l1 {
+    background-color: #ffb705;
+    color: white;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    z-index: 1;
+}
+
+#l2 {
+    background-color: #229ebc;
+    color: white;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+
+#l3 {
+    background-color: #023047;
+    color: white;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    z-index: -1;
+}
