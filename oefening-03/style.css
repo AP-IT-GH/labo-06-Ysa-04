@@ -6,9 +6,9 @@ aside {
   background-color: white;
   box-shadow: 3px 4px 20px 0px gray;
 
-  position: absolute;
-  right: 15px;
+  position: fixed;
   bottom: 15px;
+  right: 15px;
   /* positioneer dit element in de rechterbenedenhoek */
 }
 
